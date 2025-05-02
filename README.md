@@ -1,6 +1,6 @@
 ## Youth Healthcare Data Analysis Project
 
-ENG
+### English
 This project analyzes youth healthcare services across municipalities in the Haaglanden region of the Netherlands. It leverages data from the Dutch Central Bureau of Statistics (CBS) to explore relationships between youth wellbeing survey responses, demographic factors, and the costs associated with youth care services.
 
 Key Features
@@ -28,9 +28,8 @@ What could be done given more time and budget?
 -Better missing data handling -> instead of instantly dropping, look at what is salvagable and if perhaps a predictive model can potentially fill in the gaps
 -Look not only at the cost, but also at the discrepency between predicted cost and actual cost in the different municipalities
 
-
-NL
-Jeugdzorg Data Analyse Project
+## Jeugdzorg Data Analyse Project
+### Nederlands
 Dit project analyseert jeugdzorgdiensten in gemeenten binnen de regio Haaglanden. Het maakt gebruik van gegevens van het Centraal Bureau voor de Statistiek (CBS) om verbanden te onderzoeken tussen antwoorden op welzijnsenquêtes onder jongeren, demografische factoren en de kosten van jeugdzorg.
 
 Belangrijkste Functionaliteiten
